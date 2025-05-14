@@ -1,1 +1,1 @@
-# ci_testing
+# test playwright browser extention
